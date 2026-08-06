@@ -1,0 +1,5 @@
+//EXEMPLOS
+
+#define PI 3.14159
+const int16_t MAX_SIZE = 100;
+constexpr double EULER_CONSTANT = 2.71828;
