@@ -1,0 +1,7 @@
+//EXEMPLOS2
+
+snake_case -> valor_de_desconto
+
+PascalCase -> ValorDeDesconto
+
+camelCase -> valorDeDesconto

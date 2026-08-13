@@ -1,0 +1,12 @@
+//Operadores Pré-fixados e Pós-fixados
+
+++ -> Acréscimo Sucessivo //de 1 em 1
+-- -> Decréscimo Sucessivo //de 1 em 1
+
+++I -> Pré-fixado (+1 em)
+I++ -> Pós-fixado (com +1)
+//ambos +1
+
+--I -> Pré-fixado
+I-- -> Pós-fixado
+//ambos -1
