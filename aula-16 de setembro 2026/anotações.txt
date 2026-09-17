@@ -1,0 +1,9 @@
+Ponteiro não armazena letras e números, armazena o 1° bit do endereço de memória.
+Variável comum armazena o último bit.
+
+*: operador de indireção
+&: operador de endereçamento
+
+&point: mostra o endereço de memória do ponteiro
+point: mostra o endereço de memória da variável apontada
+*point: mostra o conteúdo da variável apontada
