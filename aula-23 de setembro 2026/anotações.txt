@@ -1,0 +1,5 @@
+Matrizes - cap 6 (1d), cap 7(Aplicações), cap 8(2d)[Homogêneas{Mesmo tipo}], cap 9(Registro)[Heterogêneas{Tipos mistos}]
+Matriz "A" c/ 5 elementos:
+LOPA - A[1..5] -> A[1], A[2], A[3], A[4], A[5]
+LIPA - A[5] -> int32_t A[5]; -> A[0], A[1], A[2], A[3], A[4]
+size_t = unsignedlong ou uint64_t
